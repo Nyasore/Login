@@ -1,0 +1,12 @@
+body{
+
+	background-color: red;
+}
+
+.main-container h1{
+    font-family: arial;
+    font-size: 40px;
+    color: #fff; 
+    line-height: 50px;
+    text-align: center;
+}
